@@ -1,2 +1,5 @@
 Hello this first commit text
+i am adding new textch
+hello
+this is final
 rey babu idi nenu commit cheyalsindo
